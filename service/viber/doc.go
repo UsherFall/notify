@@ -13,6 +13,7 @@ Usage:
 	    "github.com/casdoor/notify/service/viber"
 	)
 
+
 	const appKey = "your-viber-token"
 	const webhookURL = "https://webhook.com"
 	const senderName = "vibersofyana"
